@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951432576764",
+    "firebase_url": "https://konradlorenz-506162013.firebaseio.com",
+    "project_id": "konradlorenz-506162013",
+    "storage_bucket": "konradlorenz-506162013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951432576764:android:9a8b938136be8147",
+        "android_client_info": {
+          "package_name": "com.example.daniel.ejemplofirebasedr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951432576764-1s8rhu682ohbud6p1e6varm72dljgo35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpDDurphHFlcnNo6Pco-VIqJKNUuFXwU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
